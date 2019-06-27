@@ -1,0 +1,20 @@
+body {
+background-image: url("https://images.wallpaperscraft.com/image/coffee_beans_coffee_fried_123693_1920x1080.jpg");
+height: auto;
+width: auto;
+}
+
+.Container {
+  display: flex;
+margin: 0% 10% 10% 10%;
+  Background-color: #e3d269;
+  height: 1000px;
+  width: 100%;
+}
+
+.Header {
+height: 150px;
+width: 90%;
+margin-left: 5%;
+
+}
